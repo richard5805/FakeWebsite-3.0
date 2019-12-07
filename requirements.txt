@@ -7,7 +7,6 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
 mcpi==1.1.0
-py3minepi==0.0.1
 pycparser==2.19
 pygame==1.9.4
 pynput==1.4.2
